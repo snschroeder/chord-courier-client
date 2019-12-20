@@ -1,0 +1,35 @@
+.diagram {
+  position: relative;
+  height: 250px;
+  width: 250px;
+  margin: 0 auto;
+  background-image: url('../../image-assets/diagram.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-radius: 3px;
+  margin-bottom: 12%;
+  margin-top: 12%;
+}
+
+.open-diagram {
+  position: relative;
+  height: 254px;
+  width: 250px;
+  margin: 0 auto;
+  background-image: url('../../image-assets/open-diagram.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-radius: 3px;
+  margin-bottom: 12%;
+  margin-top: 12%;
+}
+
+.barre {
+  background-image: url('../../image-assets/barre.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 250px;
+  height: 30px;
+  top: -52px;
+  position: absolute;
+}
